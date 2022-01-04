@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/build-company/static/css/main.e4a92155.chunk.css",
+    "main.js": "/build-company/static/js/main.f9d834ca.chunk.js",
+    "main.js.map": "/build-company/static/js/main.f9d834ca.chunk.js.map",
+    "runtime-main.js": "/build-company/static/js/runtime-main.9cd4f437.js",
+    "runtime-main.js.map": "/build-company/static/js/runtime-main.9cd4f437.js.map",
+    "static/css/2.19da13bf.chunk.css": "/build-company/static/css/2.19da13bf.chunk.css",
+    "static/js/2.b8f2437b.chunk.js": "/build-company/static/js/2.b8f2437b.chunk.js",
+    "static/js/2.b8f2437b.chunk.js.map": "/build-company/static/js/2.b8f2437b.chunk.js.map",
+    "index.html": "/build-company/index.html",
+    "static/css/2.19da13bf.chunk.css.map": "/build-company/static/css/2.19da13bf.chunk.css.map",
+    "static/css/main.e4a92155.chunk.css.map": "/build-company/static/css/main.e4a92155.chunk.css.map",
+    "static/js/2.b8f2437b.chunk.js.LICENSE.txt": "/build-company/static/js/2.b8f2437b.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/build-company/static/media/bootstrap-icons.ea6f3dfe.woff",
+    "static/media/companyLogo.2cb6a20f.jpg": "/build-company/static/media/companyLogo.2cb6a20f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cd4f437.js",
+    "static/css/2.19da13bf.chunk.css",
+    "static/js/2.b8f2437b.chunk.js",
+    "static/css/main.e4a92155.chunk.css",
+    "static/js/main.f9d834ca.chunk.js"
+  ]
+}
